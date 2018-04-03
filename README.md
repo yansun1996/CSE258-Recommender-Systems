@@ -48,4 +48,4 @@ Data: http://jmcauley.ucsd.edu/data/amazon/
 
 Using Logistic Regression and SVM to predict the reviews' helpfulness rated by other user
 
-Feature include review time, review Readability and TF-IDF.
+Features include review time, review Readability and TF-IDF.
